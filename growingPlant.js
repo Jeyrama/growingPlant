@@ -25,3 +25,6 @@ Input/Output:
     The number of days that it will take for the plant to 
     reach/pass desiredHeight (including the last day in the total count).
 */
+
+
+// Solution
